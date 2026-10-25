@@ -1,0 +1,6 @@
+.DS_Store
+*.hyper
+*.tde
+Thumbs.db
+.Rhistory
+.RData
