@@ -13,12 +13,11 @@ How did age, sex, ticket class, and fare relate to survival?
 - [`titanic-survival.twbx`](titanic-survival.twbx): packaged Tableau workbook (data included).
 
 ## Live dashboard
-<!-- TODO: publish to Tableau Public and paste the link here -->
-View on Tableau Public: _coming soon_
+[View on Tableau Public](https://public.tableau.com/views/TitanicSurvivalRates_17928899824600/Dashboard1)
 
-![Dashboard preview](images/dashboard.png)
-<!-- TODO: add a screenshot at images/dashboard.png -->
+[![Titanic Passenger Analysis dashboard](images/dashboard.png)](https://public.tableau.com/views/TitanicSurvivalRates_17928899824600/Dashboard1)
 
 ## Key insights
-<!-- TODO: add 2-3 findings from your charts -->
-- _To add_
+- Only 342 of 891 passengers (about 38%) survived; 549 did not.
+- Most passengers were young adults, with the largest age group in the 20–25 range.
+- First-class passengers skewed older than second- and third-class passengers.

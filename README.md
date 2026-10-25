@@ -2,11 +2,16 @@
 
 Data visualization and dashboard projects built in Tableau for my data visualization course (CECS 450). Each project folder contains the workbook, its data source, and a short write-up.
 
-| Project | Focus | Data |
-|---|---|---|
-| [superstore-sales](superstore-sales) | Sales, profit, and discount analysis across regions, segments, and categories | Superstore sample data |
-| [titanic-survival](titanic-survival) | Distribution and survival analysis by age, class, and sex | Titanic passenger data |
-| [hospital-performance](hospital-performance) | Revenue, wait times, and visits by branch and department | Hospital visits and goals |
+| Project | Focus | Data | Live |
+|---|---|---|---|
+| [superstore-sales](superstore-sales) | Sales, profit, and discount analysis across regions, segments, and categories | Superstore sample data | [Dashboard](https://public.tableau.com/views/SuperstoreSalesAnalysis_17928899298350/Dashboard1) |
+| [titanic-survival](titanic-survival) | Distribution and survival analysis by age, class, and sex | Titanic passenger data | [Dashboard](https://public.tableau.com/views/TitanicSurvivalRates_17928899824600/Dashboard1) |
+| [hospital-performance](hospital-performance) | Revenue, wait times, and visits by branch and department | Hospital visits and goals | — |
+
+## Previews
+
+[![Superstore 2014 Results](superstore-sales/images/dashboard.png)](superstore-sales)
+[![Titanic Passenger Analysis](titanic-survival/images/dashboard.png)](titanic-survival)
 
 ## How to open the workbooks
 

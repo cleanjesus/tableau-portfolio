@@ -13,12 +13,13 @@ Which categories, regions, and customer segments drive sales and profit, and whe
 - [`superstore-sales.twbx`](superstore-sales.twbx): packaged Tableau workbook (data included).
 
 ## Live dashboard
-<!-- TODO: publish to Tableau Public and paste the link here -->
-View on Tableau Public: _coming soon_
+[View on Tableau Public](https://public.tableau.com/views/SuperstoreSalesAnalysis_17928899298350/Dashboard1)
 
-![Dashboard preview](images/dashboard.png)
-<!-- TODO: add a screenshot at images/dashboard.png -->
+The dashboard has a year filter that updates the sales map, sales and profit trend, profit-by-category breakdown, and product detail table.
 
-## Key insights
-<!-- TODO: add 2-3 findings, e.g. "Furniture has the lowest margin despite high sales." -->
-- _To add_
+[![Superstore 2014 Results dashboard](images/dashboard.png)](https://public.tableau.com/views/SuperstoreSalesAnalysis_17928899298350/Dashboard1)
+
+## Key insights (2014)
+- California led all states with about $142K in sales, far ahead of every other state.
+- Bookcases contributed the largest share of profit (about 32%), followed by office machines and telephones.
+- Sales and profit both peaked late in the year.
