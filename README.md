@@ -1,6 +1,6 @@
 # Tableau Portfolio
 
-Data visualization and dashboard projects built in Tableau for my data visualization course (CECS 450). Each project folder contains the workbook, its data source, and a short write-up.
+Data visualization and dashboard projects built in Tableau. Each project folder contains the workbook, its data source, and a short write-up.
 
 | Project | Focus | Data | Live |
 |---|---|---|---|
